@@ -3,7 +3,7 @@
 </div>
 
 <h5 align="center">
-   <i>⚡️Stay Tuned⚡️</i>
+   <i> You can never understand everything. But, you should push yourself to understand the system </i>
 </h5>
 
 <br />
