@@ -41,7 +41,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN1YnE5Ymx2OWJ3MDNldHQ2OXE5MXVhNmpxYjZrOWQzNTZrdHZwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" 
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDczMjNqamxlMTgxN3Fvcnpjem80d3E1cmZ4Ym9ieGRpNDRuM3o0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" 
         alt="Developer at work" width="300px"/>
 </p>
 
@@ -50,12 +50,4 @@ I'm a highly motivated Frontend Developer skilled in HTML, CSS, JavaScript, and 
 responsive, high-performance web applications with a focus on scalability, usability, and modern development
 best practices. Passionate about crafting intuitive UIs for seamless user experiences across devices. Strong problem-solving
 skills with a solid grasp of data structures and backend fundamentals (Node.js, MongoDB) for full-stack capabilities
-</p>
-
-<br />
-
-<h1 align='center'>⚡️<i>Let's create something amazing together!</i>⚡️</h1>
-
-<p align="center">
-    <img src="https://media.giphy.com/media/3o7aD6oGO32TcDWrBe/giphy.gif" alt="Collaboration" width="300px"/>
 </p>
