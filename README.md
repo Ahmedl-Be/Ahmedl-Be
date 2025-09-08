@@ -28,11 +28,8 @@
   <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" alt="React" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/testing-library/jest-dom/main/logo.png" alt="Jasmine" width="48" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" style="vertical-align:top; margin:4px">
