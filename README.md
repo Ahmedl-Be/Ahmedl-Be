@@ -46,8 +46,7 @@
 </p>
 
 <p align="center">
-I'm a highly motivated Frontend Developer skilled in HTML, CSS, JavaScript, and frameworks like React.js and Next.js. Experienced in building
-responsive, high-performance web applications with a focus on scalability, usability, and modern development
+Experienced in building responsive, high-performance web applications with a focus on scalability, usability, and modern development
 best practices. Passionate about crafting intuitive UIs for seamless user experiences across devices. Strong problem-solving
 skills with a solid grasp of data structures and backend fundamentals (Node.js, MongoDB) for full-stack capabilities
 </p>
