@@ -18,7 +18,7 @@
 
 <br />
 
-### - Languages and Tools...
+### - Languages and Tools
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" style="vertical-align:top; margin:4px">
