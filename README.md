@@ -46,7 +46,6 @@
 </p>
 
 <p align="center">
-Experienced in building responsive, high-performance web applications with a focus on scalability, usability, and modern development
-best practices. Passionate about crafting intuitive UIs for seamless user experiences across devices. Strong problem-solving
+Passionate about crafting intuitive UIs for seamless user experiences across devices. Strong problem-solving
 skills with a solid grasp of data structures and backend fundamentals (Node.js, MongoDB) for full-stack capabilities
 </p>
